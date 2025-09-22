@@ -19,4 +19,5 @@ Read heif file and render to html canvas
       ```
   - https://framebird.io/_next/static/chunks/libheif-js.c10e1358ebb4dfdd.js
   - https://framebird.io/_next/static/media/libraw.851147f4.wasm
+- [strukturag/libheif: libheif is an HEIF and AVIF file format decoder and encoder.](https://github.com/strukturag/libheif)
 
