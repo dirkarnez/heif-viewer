@@ -1,6 +1,10 @@
 heif-viewer
 ===========
-read heif file and render to html canvas
+Read heif file and render to html canvas
+
+### Sample files
+- [HEIC sample file gallery | Download HEIC images](https://heic.digital/samples/)
+
 ### Tutorials
 - https://framebird.io/viewer/heif
   - https://framebird.io/_next/static/chunks/raw-converter-worker.a2ef306d23d70bfe.js
